@@ -11,7 +11,7 @@ import '@/styles/globals.css';
 import EditModal from '@/components/modals/EditModal';
 
 export default function App({ Component, pageProps }: AppProps) {
-  const TypedComponent = Component as FunctionComponent<any>; // Explicit Typing
+  const TypedComponent = Component as FunctionComponent<any>;
 
   return (
     <SessionProvider session={pageProps.session}>
