@@ -2,6 +2,8 @@
 
 Twittle is a modern, full-stack application inspired by Twitter, designed to connect people through the sharing of short messages, images, and interactions. This project emulates core functionalities of the popular social media platform, providing a responsive and intuitive user interface, a robust backend, and a seamless deployment on Vercel.
 
+![Twittle](./public/twittle.png)
+
 ## Features
 
 - **Authentication System**: Secure signup and login processes.
